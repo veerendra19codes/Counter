@@ -1,0 +1,35 @@
+body{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 130px;
+    color:blueviolet;
+}
+
+#counter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 200px;
+
+}
+
+#options{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+}
+
+.btn{
+    margin:20px;
+    padding:5px;
+}
+
